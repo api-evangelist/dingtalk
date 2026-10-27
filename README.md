@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DingTalk is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.dingtalk.com/
+DingTalk (钉钉) is an enterprise communication and collaboration platform developed by Alibaba Group. It provides messaging, video conferencing, task management, and a low-code development environment for building custom business applications. The service targets corporate users, offering integration with other Alibaba cloud services and a suite of productivity tools designed for the digital economy era.
+
+**Areas:** Company · Communication · Collaboration · Enterprise · Alibaba · Low-code
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.dingtalk.com/)
+- [Documentation](https://docs.dingtalk.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/dingtalk/](https://apis.io/providers/dingtalk/).
